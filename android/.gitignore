@@ -7,7 +7,11 @@ gradle-wrapper.jar
 GeneratedPluginRegistrant.java
 
 
-.vscode
 .idea
+.vscode
 null
 *.iml
+.project
+.settings
+app/.settings
+app/.classpath
