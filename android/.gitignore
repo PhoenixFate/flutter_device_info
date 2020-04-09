@@ -6,7 +6,6 @@ gradle-wrapper.jar
 /local.properties
 GeneratedPluginRegistrant.java
 
-
 .idea
 .vscode
 null
@@ -15,3 +14,4 @@ null
 .settings
 app/.settings
 app/.classpath
+app/.project
